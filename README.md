@@ -1,2 +1,2 @@
 # robotworld
-Robot World Project
+Final dissertation notes, interesting finds and snippets. 
